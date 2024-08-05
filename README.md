@@ -16,14 +16,18 @@
 > 
 > Мы принимаем следующие криптовалюты:
 > 
-> - **TON**: `UQCGUzPN5GnFqWJiYsFtqqLGO75-cBXlOL8f_qbd7yKY2Tzh`
+> - **TON**: `EQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fPQb`
 > 
-> - **USDT**(TRC20): `TFr8CiAPqEnSyoXHtVefWumodcXgjoB8rS`
+> - **USDT**(TRC20): `TQw7SQFQ1U9Q7gch4vJHADyzdA6e5HWfYr`
 > 
-> - **USDT**(TON): `UQCGUzPN5GnFqWJiYsFtqqLGO75-cBXlOL8f_qbd7yKY2Tzh`
+> - **USDT**(TON): `EQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fPQb`
 > 
-> - **NOTCOIN**(TON): `UQCGUzPN5GnFqWJiYsFtqqLGO75-cBXlOL8f_qbd7yKY2Tzh`
+> - **NOTCOIN**(TON): `EQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fPQb`
 > 
-> - **BTC**: `1Mba8xKKVLdcFJdV7jD8Ba3fFn7DWbp4bt`
-> 
-> Пожертвования будут использованы для поддержания/сохранения проекта.
+> - **BTC**: `1QBoB52zHfpnW4tzYJD6k3AW94jCHtXnor`
+>
+> - **ETH**(ERC20): `0x8d410e1d63847cb64095225bd803bfe7949ef4ac`
+>
+> - **SOL**: `HFi6cM84sfasS4G3Yhz46wxepxZ5hcY1M7WSDtAgfDsN`
+>
+> > Пожертвования будут использованы для поддержания/сохранения проекта.
