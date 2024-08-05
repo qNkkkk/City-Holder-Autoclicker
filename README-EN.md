@@ -16,15 +16,15 @@
 > 
 > > We accept the following cryptocurrencies:
 > 
-> - **TON**: `EQDDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fPQb`.
+> - **TON**: `EQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fPQb`.
 > 
-> - **USDT**(TRC20): `TQw7SQFQQ1U9Q7gch4vJHADyzdA6e5HWfYr`.
+> - **USDT**(TRC20): `TQw7SQFQ1U9Q7gch4vJHADyzdA6e5HWfYr`.
 > 
 > - **USDT**(TON): `EQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fPQb`.
 > 
-> - **NOTCOIN**(TON): `EQDDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fPQb`.
+> - **NOTCOIN**(TON): `EQDD8dqOzaj4zUK6ziJOo_G2lx6qf1TEktTRkFJ7T1c_fPQb`.
 > 
-> - **BTC**: `1QBoB52zHfppnW4tzYJD6k3AW94jCHtXnor`.
+> - **BTC**: `1QBoB52zHfpnW4tzYJD6k3AW94jCHtXnor`.
 >
 > - **ETH**(ERC20): `0x8d410e1d63847cb64095225bd803bfe7949ef4ac`
 >
