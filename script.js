@@ -2,7 +2,6 @@
     let isPaused = false;
     let worker;
 
-    // Создаем и запускаем Web Worker
     function startWorker() {
         const workerScript = `
             let intervalId;
