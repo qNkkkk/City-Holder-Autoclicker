@@ -7,6 +7,8 @@
 - To make **City Holder** open in your browser, install [this script](https://github.com/qNkkkk/City-Holder-Autoclicker/blob/main/Open%20on%20the%20web.js).
 - To install **autoclicker** install [this script](https://github.com/qNkkkk/City-Holder-Autoclicker/blob/main/Script_withoutWW.js) [or this script](https://github.com/qNkkkk/City-Holder-Autoclicker/blob/main/script_WW.js)
 - Open [City Holder bot](https://t.me/cityholder/game?startapp=5278492883) and run the game.
+##  For the script to work correctly, launch the game in a new window (using the link as on the screenshot)
+![Open in new Tab.png](https://github.com/qNkkkk/City-Holder-Autoclicker/blob/main/Open%20in%20new%20Tab.png)
 
 ## ![Result](result.gif)
 
