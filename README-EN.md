@@ -5,7 +5,8 @@
 ## How to run
 - Install the [tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension in your browser.
 - To make **City Holder** open in your browser, install [this script](https://github.com/qNkkkk/City-Holder-Autoclicker/blob/main/Open%20on%20the%20web.js).
-- To install **avtoclicker** install [this script](https://github.com/qNkkkk/City-Holder-Autoclicker/blob/main/script.js).
+- To install **autoclicker** install [this script](https://github.com/qNkkkk/City-Holder-Autoclicker/blob/main/Script_withoutWW.js)
+- [or this script](https://github.com/qNkkkk/City-Holder-Autoclicker/blob/main/script.js)
 - Open [City Holder bot](https://t.me/cityholder/game?startapp=5278492883) and run the game.
 
 ## ![Result](result.gif)
