@@ -11,7 +11,8 @@
   ![Open in new Tab.png](https://github.com/qNkkkk/City-Holder-Autoclicker/blob/main/screen/Open%20in%20new%20Tab.png)
 
 
-## ![Результат](https://github.com/qNkkkk/City-Holder-Autoclicker/blob/main/screen/result.gif)
+## Результат: 
+![Результат](https://github.com/qNkkkk/City-Holder-Autoclicker/blob/main/screen/result.gif)
 
 
 ---
