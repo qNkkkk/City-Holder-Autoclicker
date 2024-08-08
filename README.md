@@ -5,7 +5,7 @@
 ## Как запустить
 - Установить в свой браузер расширение [tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 - Для того, чтобы **City Holder** открывался в браузере установите [этот скрипт](https://github.com/qNkkkk/City-Holder-Autoclicker/blob/main/Open%20on%20the%20web.js)
-- Для установки **автокликера** установите [этот скрипт](https://github.com/qNkkkk/City-Holder-Autoclicker/blob/main/Script_withoutWW.js) [или этот скрипт](https://github.com/qNkkkk/City-Holder-Autoclicker/blob/main/script_WW.js)
+- Для установки **автокликера** установите [этот скрипт](https://github.com/qNkkkk/City-Holder-Autoclicker/blob/main/Script_0-2.js)
 - Открыть [Бота City Holder](https://t.me/cityholder/game?startapp=5278492883) и запустить игру
 ## Для корректной работы скрипта запустите игру в новом окне (используя ссылку как на скриншоте)
   ![Open in new Tab.png](https://github.com/qNkkkk/City-Holder-Autoclicker/blob/main/screen/Open%20in%20new%20Tab.png)
