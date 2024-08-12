@@ -14,7 +14,6 @@
 ## Результат: 
 ![Результат](https://github.com/qNkkkk/City-Holder-Autoclicker/blob/main/screen/result.gif)
 
-
 ---
 > [!IMPORTANT] 
 > Пожертвование
