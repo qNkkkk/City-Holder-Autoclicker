@@ -87,7 +87,7 @@
     }
 
     function startWorker() {
-        const tapAreaElement = document.querySelector('div._tapArea_1dguf_1');
+        const tapAreaElement = document.querySelector('div._tapArea_7vphg_1');
         if (tapAreaElement) {
             const rect = tapAreaElement.getBoundingClientRect();
             const tapArea = { element: tapAreaElement, rect: rect, width: rect.width, height: rect.height };
